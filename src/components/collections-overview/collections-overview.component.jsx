@@ -9,7 +9,6 @@ import CollectionPreview from '../preview-collection/collection-preview.componen
 
 
 const CollectionsOverview = ({ collections }) => {
-    debugger;
     console.log(collections);
     return (
         <div className="collections-overview">
